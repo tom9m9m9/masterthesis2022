@@ -4,9 +4,9 @@
 ## data
 実験に用いたデータセットです．
 100Walksはwalk，AIST++はaistと略し保存してあります．
--- advdist.py
+**advdist.py
 収集した副詞の分布を表示します．
--- uni.py
+**uni.py
 学習前の単語分布を用いてパープレキシティを計算します．
 ## gplvm
 GPLVMを用いて姿勢データを低次元に圧縮するプログラムです．
